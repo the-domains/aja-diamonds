@@ -1,0 +1,28 @@
+name: Aja Diamonds
+favicon: null
+layout_spectrum: 0.7338251140899956
+typography_spectrum: 0.018331609666347504
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.07205935684032738
+  lightness: 0.6113531205337495
+  saturation: 0.09773957310244441
+  rhythmicContrast: 0.037240670062601566
+purpose: []
